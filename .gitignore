@@ -1,0 +1,10 @@
+
+logs
+__pycache__
+data
+.vscode
+features
+env
+bash.exe.stackdump
+notebook
+
