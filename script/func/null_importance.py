@@ -116,7 +116,7 @@ def main():
 
     # 上位 N% の特徴量を使って性能を比較してみる
     use_feature_importance_top_percentages = [
-        100, 75, 50, 25, 20, 15, 10, 8, 5, 1]
+        100, 90, 80, 75, 60, 50, 25, 20, 15, 10, 8, 5, 1]
 
     mean_test_scores = []
     percentile_selected_cols = []
